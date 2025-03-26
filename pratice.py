@@ -44,11 +44,17 @@
 # 5) Reverse a number using a  while  loop.
 # num1 = 54321
 # rev_num = 0
+# count = 0
+# sum = 0
 # while num1 > 0:
 #     rem = num1 % 10
 #     print(rem)
+#     sum += rem
 #     rev_num = rev_num * 10 + rem
 #     num1 = num1 // 10
+#     count += 1
 # print(rev_num)
+# print(count)
+# print(sum)
 
 
